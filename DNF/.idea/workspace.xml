@@ -19,8 +19,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="731">
-                  <caret line="52" column="51" lean-forward="false" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+                <state relative-caret-position="750">
+                  <caret line="62" column="4" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="43" />
                   <folding />
                 </state>
               </provider>
@@ -96,7 +96,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-57" />
     <option name="y" value="-17" />
     <option name="width" value="1862" />
@@ -188,15 +188,15 @@
       <option name="presentableId" value="Default" />
       <updated>1520145810856</updated>
       <workItem from="1520145812142" duration="268000" />
-      <workItem from="1520149202724" duration="5680000" />
+      <workItem from="1520149202724" duration="6099000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5948000" />
+    <option name="totallyTimeSpent" value="6367000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08986928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -252,14 +252,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/table.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/Home of Aoikaze DNF Department.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -268,10 +260,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="52" column="51" lean-forward="false" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+        <state relative-caret-position="750">
+          <caret line="62" column="4" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="43" />
           <folding />
         </state>
       </provider>
